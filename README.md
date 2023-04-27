@@ -5,3 +5,5 @@
 > [Basic SQL](basic-sql/BasicSql.md)
 
 > [Working with tables](working-with-tables/WorkingWithTables.md)
+
+> [Joins](joining/Joins.md)
