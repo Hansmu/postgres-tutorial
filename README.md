@@ -11,3 +11,5 @@
 > [Aggregation](aggregation/Aggregation.md)
 
 > [Sorting](sorting/Sorting.md)
+
+> [Union, Intersection, Exclusion](union-and-intersection/UnionAndIntersection.md)
